@@ -8,4 +8,5 @@ Type/ paste-
 %appdata%/.minecraft/versions
 
 Go the the AnonymousKL modpack.
+
 Go into mods folder and paste it.
